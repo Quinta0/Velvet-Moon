@@ -10,7 +10,7 @@ body {
 	--toggle-radius: 12px;
 	--toggle-thumb-radius: 12px;
 	--slider-thumb-radius: 12px;
-	background-color: var(--background);
+	background-color: var(--background-primary);
 	color: var(--text);
 }
 
@@ -32,7 +32,7 @@ svg * {
 .menu {
 	padding: var(--size-2-1);
 	border-radius: var(--radius-m);
-	background-color: var(--background);
+	background-color: var(--background-primary);
 	color: var(--text);
 }
 
@@ -63,7 +63,7 @@ svg * {
 }
 
 body.theme-dark {
-	background-color: var(--background);
+	background-color: var(--background-primary);
 	color: var(--text);
 }
 
