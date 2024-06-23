@@ -5,13 +5,14 @@ body {
 	--radius-m: 12px;
 	--radius-l: 16px;
 	--input-radius: 12px;
-	--tab-radius-active: 12px;
 	--checkbox-radius: 12px;
 	--toggle-radius: 12px;
 	--toggle-thumb-radius: 12px;
 	--slider-thumb-radius: 12px;
 	background-color: var(--background-primary);
 	color: var(--text);
+	font-family: 'Finlandica', sans-serif;
+	--font-text-theme: 'Finlandica', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
